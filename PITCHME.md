@@ -5,6 +5,15 @@
 
 ---
 
+昨年度の作品
+https://unityroom.com/users/81feabmrtpxcuv0h5dlg
+
+開発ブログ
+https://am1tanaka.hatenablog.com/
+https://am1.jp
+
+---
+
 1年目に目指すこと
 
 ## オリジナル作品を最低1本
