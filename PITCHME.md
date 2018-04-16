@@ -5,12 +5,11 @@
 
 ---
 
-昨年度の作品
-https://unityroom.com/users/81feabmrtpxcuv0h5dlg
+[昨年度の作品](https://unityroom.com/users/81feabmrtpxcuv0h5dlg)
 
-開発ブログ
-https://am1tanaka.hatenablog.com/
-https://am1.jp
+ブログ
+- https://am1tanaka.hatenablog.com/
+- https://am1.jp
 
 ---
 
