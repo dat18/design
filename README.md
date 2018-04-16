@@ -4,6 +4,11 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 2017年度の学生個人作品
+- http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
+- http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
+
+
 # 参考URL
 - [Phaserのスプライト画像の用意の仕方](docs/06_phaser-sprite.md)
 - [LubuntuでPhaserのExampleを動かす手順](docs/06_phaser_boot.md)
