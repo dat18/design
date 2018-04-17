@@ -10,15 +10,15 @@
 
 # 1回目
 - [ガイダンス](https://gitpitch.com/dat18/design/01)
-- ゲームデザイン概論(1)
-  - ゲームの定義 [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
-  - ゲームの設計を考えよう(書籍より)
 - 環境の構築
   - (メールアドレスが使える場合)[アカウントの登録](docs/01.md)
   - Gmail / Microsoft Account / GitHub / e-typing
     - Gmailは、携帯番号の設定が必要です。090から始まる番号なら、+8190として設定します
   - Windowsの基本操作
   - 作業用フォルダーの作成
+- ゲームデザイン概論(1)
+  - ゲームの定義 [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
+  - ゲームの設計を考えよう(書籍より)
 - [e-typing](https://www.e-typing.ne.jp/)でタイピング練習
 - 演習1：[よけとる](https://dat18.github.io/design/yoketoru/)を観察して、ゲームの要素をPowerPointなどにまとめてみよう
 - 演習2：ミニゲームを考えよう
