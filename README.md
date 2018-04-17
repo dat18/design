@@ -18,8 +18,8 @@
   - Gmail / Microsoft Account / GitHub / e-typing
   - Windowsの基本操作
   - 作業用フォルダーの作成
-- e-typingでタイピング練習
-- 演習1：[よけとる](https://dat18.github.io/design/yoketoru/)を分析して、メモをとってみよう
+- [e-typing](https://www.e-typing.ne.jp/)でタイピング練習
+- 演習1：[よけとる](https://dat18.github.io/design/yoketoru/)を観察して、ゲームの要素をPowerPointなどにまとめてみよう
 - 演習2：ミニゲームを考えよう
 
 # 参考URL
