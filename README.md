@@ -19,7 +19,7 @@
   - Windowsの基本操作
   - 作業用フォルダーの作成
 - e-typingでタイピング練習
-- 演習1：「よけとる」を分析して、メモをとってみよう
+- 演習1：[よけとる](https://dat18.github.io/design/yoketoru/index.html)を分析して、メモをとってみよう
 - 演習2：ミニゲームを考えよう
 
 # 参考URL
