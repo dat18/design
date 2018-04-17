@@ -16,6 +16,7 @@
 - 環境の構築
   - (メールアドレスが使える場合)[アカウントの登録](docs/01.md)
   - Gmail / Microsoft Account / GitHub / e-typing
+    - Gmailは、携帯番号の設定が必要です。090から始まる番号なら、+8190として設定します
   - Windowsの基本操作
   - 作業用フォルダーの作成
 - [e-typing](https://www.e-typing.ne.jp/)でタイピング練習
