@@ -11,7 +11,7 @@
 # 2回目(4/25)
 ## 予定
 - ゲームデザイン概論(2)
-  - ターゲット： [Unity AssetStoreまとめ. 第1回 ブログ3周年記念！お題にチャレンジ](http://www.asset-sale.net/entry/ChallengeEvent180417)
+  - ターゲット： [Unity AssetStoreまとめ. 第1回 ブログ3周年記念！お題にチャレンジ](http://www.asset-sale.net/entry/ChallengeEvent180417)
   - 初めてのゲーム作り：どこから始める？（書籍より)
 - 演習1：フリーライティング+ランダム組み合わせでゲームの企画を考えてみよう
 - 2D Art
