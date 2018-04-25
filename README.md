@@ -21,7 +21,7 @@
   - 素材を探す
     - フリー素材
       - https://opengameart.org/
-      - いらすとや
+      - [いらすとや](https://www.irasutoya.com/)
     - ライセンスを確認する
 - 演習2：Unityでモック画面を作ろう
 - タイピング練習(2)
