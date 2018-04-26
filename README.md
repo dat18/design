@@ -8,8 +8,13 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 3回目
+## 話題
+- [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+
+
 # 2回目(4/25)
-## 予定
+## 内容
 - ゲームデザイン概論(2)
   - ターゲット： [Unity AssetStoreまとめ. 第1回 ブログ3周年記念！お題にチャレンジ](http://www.asset-sale.net/entry/ChallengeEvent180417)
   - 初めてのゲーム作り：どこから始める？（書籍より)
