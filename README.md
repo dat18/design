@@ -11,7 +11,28 @@
 # 3回目
 ## 話題
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+- [次回Unity1週間ゲームジャムは6/4から](https://unityroom.com/unity1weeks)
+- [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
 
+## 予定
+- [著作権概論](https://github.com/dat17/design/blob/master/docs/04_license.md)を右クリックして、新しいタブで開く
+  - 開いたページで[Raw]ボタンをクリック
+  - [Ctrl]+[A]キーで全て選択したら、コピー([Ctrl]+[C]キー)
+  - 自分のアカウントに戻る
+  - designというリポジトリーを作成
+  - 04_license.md というファイルを create
+  - 先ほどコピーした文章を貼り付ける
+  - Commitする
+  - README.md にリンクを作成する
+- 2D Art
+  - ドット絵を描いてみよう https://www.piskelapp.com/
+  - 素材を探す
+    - フリー素材
+      - https://opengameart.org/
+      - [いらすとや](https://www.irasutoya.com/)
+    - ライセンスを確認する
+- 演習1：Unityでモック画面を作ろう～続き～
+- 演習2：利用した素材リストをGitHubにまとめよう
 
 # 2回目(4/25)
 ## 内容
@@ -23,11 +44,7 @@
   - 画面サイズを知る。自分のスマホの画面サイズを調べよう
   - レイアウトのサムネイルを作成ー手書きで確認
   - ドット絵を描いてみよう https://www.piskelapp.com/
-  - 素材を探す
-    - フリー素材
-      - https://opengameart.org/
-      - [いらすとや](https://www.irasutoya.com/)
-    - ライセンスを確認する
+  - AssetStoreで素材を探す
 - 演習2：Unityでモック画面を作ろう
 - タイピング練習(2)
 
