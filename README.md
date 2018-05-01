@@ -14,6 +14,7 @@
 - [次回Unity1週間ゲームジャムは6/4から](https://unityroom.com/unity1weeks)
 - [青木とと. Unity/ゲーム制作のローカルコミュニティを集約するScrapboxを作成しました ](http://lycoris102.hatenablog.com/entry/2018/04/30/204940)
 - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
+  - [アセットバウチャー、ゲットできました！](http://www.asset-sale.net/entry/EventEnd180429)
 
 ## 予定
 - [著作権概論](https://github.com/dat17/design/blob/master/docs/04_license.md)を右クリックして、新しいタブで開く
@@ -25,13 +26,16 @@
   - 先ほどコピーした文章を貼り付ける
   - Commitする
   - README.md にリンクを作成する
+- 参考画像を探す
+  - 常に、素材を探す癖をつけておこう
+  - https://www.pinterest.jp/
+- 素材を探す
+  - フリー素材
+    - https://opengameart.org/
+    - [いらすとや](https://www.irasutoya.com/)
+  - ライセンスを確認する
 - 2D Art
   - ドット絵を描いてみよう https://www.piskelapp.com/
-  - 素材を探す
-    - フリー素材
-      - https://opengameart.org/
-      - [いらすとや](https://www.irasutoya.com/)
-    - ライセンスを確認する
 - 演習1：Unityでモック画面を作ろう～続き～
 - 演習2：利用した素材リストをGitHubにまとめよう
 
