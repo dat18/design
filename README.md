@@ -11,6 +11,7 @@
 # 3回目
 ## 話題
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+- [Yurie Shiratori. 任天堂デザインの輪郭 / UI Crunch #13 娯楽のUI イベントレポート](https://note.mu/shiratoriyurie/n/nc9d87c8220dd)
 - [次回Unity1週間ゲームジャムは6/4から](https://unityroom.com/unity1weeks)
 - [青木とと. Unity/ゲーム制作のローカルコミュニティを集約するScrapboxを作成しました ](http://lycoris102.hatenablog.com/entry/2018/04/30/204940)
 - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
