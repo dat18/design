@@ -23,7 +23,7 @@
   - [Ctrl]+[A]キーで全て選択したら、コピー([Ctrl]+[C]キー)
   - 自分のアカウントに戻る
   - 作成済みのgdリポジトリーを開く
-  - 04_license.md というファイルを create
+  - 04_license.md というファイルを create
   - 先ほどコピーした文章を貼り付ける
   - Commitする
   - README.md にリンクを作成する
