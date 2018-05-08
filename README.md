@@ -8,7 +8,28 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 3回目
+# 4回目(5/9)
+## 話題
+## 予定
+- [前回の著作権の復習]()
+- [スーパーマリオオデッセイのコンテ](https://mobile.twitter.com/mario_odysseyJP/status/993244262958592000)
+
+## 演習
+- 自分の好きなゲームについて、ホームページやパッケージのデザインを調べて、そこに使われている以下のものを調べる
+  - ゲームの象徴やメーカーのロゴ
+  - 説明などに利用されている記号
+  - 画面のレイアウト
+- 素材を探す
+  - フリー素材
+    - https://opengameart.org/
+    - [いらすとや](https://www.irasutoya.com/)
+  - ライセンスを確認する
+- 2D Art
+  - ドット絵を描いてみよう https://www.piskelapp.com/
+- 演習1：Unityでモック画面を作ろう～続き～
+- 演習2：利用した素材リストをGitHubにまとめよう
+
+# 3回目(5/2)
 ## 話題
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
 - [Yurie Shiratori. 任天堂デザインの輪郭 / UI Crunch #13 娯楽のUI イベントレポート](https://note.mu/shiratoriyurie/n/nc9d87c8220dd)
@@ -17,7 +38,7 @@
 - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
   - [アセットバウチャー、ゲットできました！](http://www.asset-sale.net/entry/EventEnd180429)
 
-## 予定
+## 内容
 - [著作権概論](https://github.com/dat17/design/blob/master/docs/04_license.md)を右クリックして、新しいタブで開く
   - 開いたページで[Raw]ボタンをクリック
   - [Ctrl]+[A]キーで全て選択したら、コピー([Ctrl]+[C]キー)
