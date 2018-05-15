@@ -18,6 +18,7 @@
   - トリミング
   - URLの共有。GitHubに貼り付けておく
 - Unityの画面デザイン
+  - モックアップの例 https://mobile.twitter.com/otsuka_game/status/995835243482435584
   - Googleドキュメントにメモを取りながら操作を確認
   - プレイヤーの大きさを決める
   - 画面サイズを決める
