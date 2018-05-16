@@ -11,7 +11,7 @@
 # 5回目(5/16)
 ## 予定
 - いちばん面白いデザインの教科書より、色の章
-  - [挿絵](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/edit?usp=sharing)
+  - [挿絵](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/edit?usp=sharing)
   - 色相環を利用する例 https://mobile.twitter.com/murakaruki/status/994548424589565954
 - Googleドキュメントにメモを作ろう
   - タイトルをつける
@@ -22,6 +22,7 @@
 - Unityの画面デザイン
   - モックアップの例 https://mobile.twitter.com/otsuka_game/status/995835243482435584
   - Googleドキュメントにメモを取りながら操作を確認
+    - [記載例](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/edit?usp=sharing)
   - プレイヤーの大きさを決める
   - 画面サイズを決める
   - 2D or 3D
