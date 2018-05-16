@@ -11,6 +11,7 @@
 # 5回目(5/16)
 ## 予定
 - いちばん面白いデザインの教科書より、色の章
+  - [挿絵](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/edit?usp=sharing)
   - 色相環を利用する例 https://mobile.twitter.com/murakaruki/status/994548424589565954
 - Googleドキュメントにメモを作ろう
   - タイトルをつける
