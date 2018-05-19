@@ -4,12 +4,26 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 参考URL
+- [collis. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+
 # 2017年度 学生個人作品
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 5回目(5/16)
+# 6回目(5/23)
 ## 予定
+- いちばん面白いデザインの教科書より、文字の章
+- Unityで文字を扱う
+  - TextMesh Proの利用
+  - [collis. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+
+## 演習
+- Unityの画面にUIを作ってみよう
+  - スコアの表示
+
+# 5回目(5/16)
+## 内容
 - いちばん面白いデザインの教科書より、色の章
   - [挿絵](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/edit?usp=sharing)
   - 色相環を利用する例 https://mobile.twitter.com/murakaruki/status/994548424589565954
