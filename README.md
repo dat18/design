@@ -23,7 +23,7 @@
 
 - Unityで文字を扱う
   - TextMesh Proの利用 https://docs.google.com/document/d/13IYK_7oXWyYl2bhRHsCgNMERwID_fZiY-XVeOEcn-po/edit?usp=sharing
-  - [collis. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+  - [coliss. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
 
 ## 演習
 - Unityの画面にUIを作ってみよう
