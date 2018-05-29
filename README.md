@@ -11,16 +11,24 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 7回目(5/30)
+## 予定
+- いちばん面白いデザインの教科書より、写真の章
+
+## 演習
+- Unityのカメラを使って、様々な効果を確認しよう
+- PostProcessing Stackを使ってみよう
+- 色の調整
+
 # 6回目(5/23)
 ## 話題
 - [paiza開発日誌. ゲーム開発ってどんな仕事？動画でわかる「ゲームエンジニア入門」公開中](https://paiza.hatenablog.com/entry/2018/05/22/%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E4%BB%95%E4%BA%8B%EF%BC%9F%E5%8B%95%E7%94%BB%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%8C%E3%82%B2%E3%83%BC)
 - [電ファミニコゲーマー. 『FFタクティクス』松野泰己✕『FFXIV』吉田直樹対談──もはやゲームに作家性は不要なのか？ 企画者に求められるたったひとつの資質とは？](http://news.denfaminicogamer.jp/interview/180522/3)
 
 
-## 予定
+## 内容
 - いちばん面白いデザインの教科書より、文字の章
-  - 今日のスライド https://docs.google.com/presentation/d/1YGq4NqF7K0w_sw7d39AFgOeG6YLSzlU0lrXsX0Semyo/edit?usp=sharing
-
+  - 今日のスライド https://docs.google.com/presentation/d/1YGq4NqF7K0w_sw7d39AFgOeG6YLSzlU0lrXsX0Semyo/edit?usp=sharing
 - Unityで文字を扱う
   - TextMesh Proの利用 https://docs.google.com/document/d/13IYK_7oXWyYl2bhRHsCgNMERwID_fZiY-XVeOEcn-po/edit?usp=sharing
   - [coliss. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
