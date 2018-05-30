@@ -25,8 +25,7 @@
   - TextMesh Proを組み込む
 - ゲーム画面をデザインする
   - プレイヤー用キャラクター、背景をアセットストアなどから入手
-  - PostProcessing
-
+  - PostProcessingで効果を設定
 
 # 7回目(5/30)
 ## 内容
