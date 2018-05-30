@@ -18,6 +18,7 @@
 - いちばん面白いデザインの教科書より、写真の章
 
 ## 演習
+- 作業手順 https://docs.google.com/document/d/1tunY5KDbBbAxTPcTK-42iphcuknPn8i8r974zRCtODo/edit?usp=sharing
 - Unityのカメラを使って、様々な効果を確認しよう
 - PostProcessing Stackを使ってみよう
 - 色の調整
