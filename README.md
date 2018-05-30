@@ -13,15 +13,33 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 7回目(5/30)
+# 8回目(6/6)
 ## 予定
+- PostProsessing Stackの他の効果を見る
+
+## 演習 - これまでの総復習
+- Unity1週間ゲームジャムのテーマでゲームを考える
+- Unityで画面の設定(解像度を決めて、Canvasなどを設定)
+- レイアウト、色、書体を活用
+  - タイトル画面を作る
+  - TextMesh Proを組み込む
+- ゲーム画面をデザインする
+  - プレイヤー用キャラクター、背景をアセットストアなどから入手
+  - PostProcessing
+
+
+# 7回目(5/30)
+## 内容
 - いちばん面白いデザインの教科書より、写真の章
 
 ## 演習
 - 作業手順 https://docs.google.com/document/d/1tunY5KDbBbAxTPcTK-42iphcuknPn8i8r974zRCtODo/edit?usp=sharing
 - Unityのカメラを使って、様々な効果を確認しよう
+  - ライティング
+  - 反射
+  - Reflection Probe
 - PostProcessing Stackを使ってみよう
-- 色の調整
+  - Depth Of Field
 
 # 6回目(5/23)
 ## 話題
