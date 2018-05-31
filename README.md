@@ -14,6 +14,9 @@
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
 # 8回目(6/6)
+## 話題
+- [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
+
 ## 予定
 - PostProsessing Stackの他の効果を見る
 
