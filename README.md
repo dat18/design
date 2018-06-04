@@ -35,7 +35,12 @@
   - 形、色、文字、写真の知識を活用して、画面を構成する
   - TextMesh Proで文字を綺麗に表示
   - PostProcessingで効果を設定
-  - ゲーム画面ができたらタイトル画面を作る
+  - ゲーム画面ができたらタイトル画面を作成
+- Googleスライドにまとめる
+  - 氏名を書く
+  - 企画内容とUnityの画面のスクリーンショットをスライドにまとめる
+  - 共有のためのリンクを取得して以下の自分の氏名の行のC列にリンクを貼り付ける
+    - https://docs.google.com/spreadsheets/d/1MR2X78WSSl4Fki8XEaDjAoXIIS_huxODFzgnT-cswxk/edit?usp=sharing
 
 # 7回目(5/30)
 ## 内容
