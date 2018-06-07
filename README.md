@@ -13,11 +13,24 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+
+# 9回目(6/13)
+## Unity1週間ゲームジャムのモックのまとめと発表
+- Googleスライドにまとめる
+  - 氏名を書く
+  - 企画内容とUnityの画面のスクリーンショットをスライドにまとめる
+  - 共有のためのリンクを取得して以下の自分の氏名の行のC列にリンクを貼り付ける
+    - https://docs.google.com/spreadsheets/d/1MR2X78WSSl4Fki8XEaDjAoXIIS_huxODFzgnT-cswxk/edit?usp=sharing
+
+## シェーダー
+- [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
+
+
 # 8回目(6/6)
 ## 話題
 - [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
 
-## 予定
+## 内容
 - PostProsessing Stackの他の効果を見る
 
 ## これまでのまとめ演習 / Unity1週間ゲームジャムのテーマでゲームを考え、モック画面を作る
@@ -36,11 +49,7 @@
   - TextMesh Proで文字を綺麗に表示
   - PostProcessingで効果を設定
   - ゲーム画面ができたらタイトル画面を作成
-- Googleスライドにまとめる
-  - 氏名を書く
-  - 企画内容とUnityの画面のスクリーンショットをスライドにまとめる
-  - 共有のためのリンクを取得して以下の自分の氏名の行のC列にリンクを貼り付ける
-    - https://docs.google.com/spreadsheets/d/1MR2X78WSSl4Fki8XEaDjAoXIIS_huxODFzgnT-cswxk/edit?usp=sharing
+
 
 # 7回目(5/30)
 ## 内容
