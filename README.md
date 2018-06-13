@@ -13,6 +13,11 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 10回目(6/20)
+## 予定
+- 3Dグラフィックを扱う1 / ボクセル / ボーンを適用してアニメーション / フリー素材を探す / 演習：3DキャラクターをUnityで動かす
+  - http://am1tanaka.hatenablog.com/entry/2018/03/25/162241
+  - http://am1tanaka.hatenablog.com/entry/2018/03/26/123815
 
 # 9回目(6/13)
 ## シューティング企画がまとまっていたら確認
