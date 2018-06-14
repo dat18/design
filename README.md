@@ -8,6 +8,7 @@
 - [collis. 2018年用、日本語のフリーフォント314種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
 - [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
 - [NxWorld. デザインする上で知っておきたい「近接」「整列」「反復」「対比」の4原則](https://www.nxworld.net/design-ui-ux/4-principles-of-design.html?utm_content=bufferb8cf3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
 
 # 2017年度 学生個人作品
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
