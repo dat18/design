@@ -15,6 +15,9 @@
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
 # 10回目(6/20)
+## 話題
+- [Unity1DayChangeJam 今日から開始](https://twitter.com/search?f=tweets&vertical=default&q=%23unity1daychangejam&src=typd)
+
 ## 予定
 - 3Dグラフィックを扱う1 / ボクセル / ボーンを適用してアニメーション / フリー素材を探す / 演習：3DキャラクターをUnityで動かす
   - http://am1tanaka.hatenablog.com/entry/2018/03/25/162241
