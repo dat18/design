@@ -17,7 +17,7 @@
 # 10回目(6/20)
 ## 話題
 - [Unity1DayChangeJam 今日から開始](https://twitter.com/search?f=tweets&vertical=default&q=%23unity1daychangejam&src=typd)
-- [](https://www.youtube.com/watch?v=eAqsI8W7_jQ&feature=youtu.be)
+- [UI Crunch #13 娯楽のUI - by Nintendo -](https://www.youtube.com/watch?v=eAqsI8W7_jQ&feature=youtu.be)
 - [Unityお学びグループ](https://connect.unity.com/g/5b0bca2709091500166c5ee7)
 - [ShaderGraphサンプル](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 - [EntityComponentSystemサンプル](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
