@@ -22,10 +22,24 @@
 - [ShaderGraphサンプル](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 - [EntityComponentSystemサンプル](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 
-## 予定
+## 内容
 - 3Dグラフィックを扱う1 / ボクセル / ボーンを適用してアニメーション / フリー素材を探す / 演習：3DキャラクターをUnityで動かす
   - http://am1tanaka.hatenablog.com/entry/2018/03/25/162241
   - http://am1tanaka.hatenablog.com/entry/2018/03/26/123815
+
+## MagicaVoxelのキャラクターに衝突判定を入れるには・・・
+### 方法その1(本来、キャラクターとして動かす場合は、こちら)
+- 自力で、BoxColliderやSphereColliderを使って、当たり判定を入れる
+- Physicsをアタッチ
+
+### 方法その2(Mesh Colliderを生成する方法。静止物か、処理が軽いゲーム用)
+- 読み込んだモデルを選択して、InspectorのModelタブから、Generate Collidersにチェックを入れる
+- 動くキャラクターにしたい場合
+  - モデルのMesh ColliderのConvex欄にチェックを入れてApplyをクリック
+  - Physicsをアタッチする
+- 動かない地形や建物などにしたい場合
+  - Inspectorのstaticにチェックを入れる
+
 
 # 9回目(6/13)
 ## シューティング企画がまとまっていたら確認
