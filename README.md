@@ -14,6 +14,10 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 11回目(6/27)
+## 予定
+- ステージをデザインする / ProBuilder+ProGridsの利用 / 演習：ステージを作る
+
 # 10回目(6/20)
 ## 話題
 - [Unity1DayChangeJam 今日から開始](https://twitter.com/search?f=tweets&vertical=default&q=%23unity1daychangejam&src=typd)
