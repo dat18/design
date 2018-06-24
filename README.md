@@ -17,6 +17,18 @@
 # 11回目(6/27)
 ## 予定
 - ステージをデザインする / ProBuilder+ProGridsの利用 / 演習：ステージを作る
+  - 新しいプロジェクトを作成して、ProBuilderとProGridsとMeshBrushをインポート
+  - [テラシュールブログ. ProBuilderで超適当に超適当なステージを作る](http://tsubakit1.hateblo.jp/entry/2018/02/22/232426)
+    - 基本の基本を確認(インポート方法が新しいUnity向けなので注意)
+  - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
+    - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
+  - [テラシュールブログ. ProBuilderがなんか重い対処](http://tsubakit1.hateblo.jp/entry/2018/05/15/220000)
+  - その他参考 [テラシュールブログ. ProBuilder関連](http://tsubakit1.hateblo.jp/archive/category/ProBuilder)
+  - 当たり判定をつける
+    - Mesh Collider
+    - 動かすときはConvexを設定(当たり判定が大雑把になる代わりに動かせるようになる)
+  - キャラクターを読み込んで動かしてみる
+  
 
 # 10回目(6/20)
 ## 話題
