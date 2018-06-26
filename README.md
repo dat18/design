@@ -16,6 +16,9 @@
 
 # 11回目(6/27)
 ## 予定
+- 復習＆演習： MagicaVoxelでply形式にエクスポートしたモデルを読み込む
+  - http://am1tanaka.hatenablog.com/entry/2018/06/26/192600 を参照して、MagicaVoxelのモデルにボーンとウェイトを設定して、テクスチャーを作成して、Unityに読み込んでアニメーションをさせる
+  - プロジェクトは新しく作成(voxel0627)して、そこに読み込むとよい
 - ステージをデザインする / ProBuilder+ProGridsの利用 / 演習：ステージを作る
   - 新しいプロジェクトを作成して、ProBuilderとProGridsとMeshBrushをインポート
   - [テラシュールブログ. ProBuilderで超適当に超適当なステージを作る](http://tsubakit1.hateblo.jp/entry/2018/02/22/232426)
