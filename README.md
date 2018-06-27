@@ -14,8 +14,18 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 11回目(6/27)
+# 12回目(7/4)
 ## 予定
+- ProBuilderで小物や島を作る
+  - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
+    - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
+  - 当たり判定をつける
+    - Mesh Collider
+    - 動かすときはConvexを設定(当たり判定が大雑把になる代わりに動かせるようになる)
+
+
+# 11回目(6/27)
+## 内容
 - 復習＆演習： MagicaVoxelでply形式にエクスポートしたモデルを読み込む
   - http://am1tanaka.hatenablog.com/entry/2018/06/26/192600 を参照して、MagicaVoxelのモデルにボーンとウェイトを設定して、テクスチャーを作成して、Unityに読み込んでアニメーションをさせる
   - プロジェクトは新しく作成(voxel0627)して、そこに読み込むとよい
@@ -23,13 +33,8 @@
   - 新しいプロジェクトを作成して、ProBuilderとProGridsとMeshBrushをインポート
   - [テラシュールブログ. ProBuilderで超適当に超適当なステージを作る](http://tsubakit1.hateblo.jp/entry/2018/02/22/232426)
     - 基本の基本を確認(インポート方法が新しいUnity向けなので注意)
-  - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
-    - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
   - [テラシュールブログ. ProBuilderがなんか重い対処](http://tsubakit1.hateblo.jp/entry/2018/05/15/220000)
   - その他参考 [テラシュールブログ. ProBuilder関連](http://tsubakit1.hateblo.jp/archive/category/ProBuilder)
-  - 当たり判定をつける
-    - Mesh Collider
-    - 動かすときはConvexを設定(当たり判定が大雑把になる代わりに動かせるようになる)
   - キャラクターを読み込んで動かしてみる
     - Unity公式のStandard Assetsをインポートすると、いろいろな操作を試せる
   
