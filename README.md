@@ -23,6 +23,8 @@
   - 当たり判定をつける
     - Mesh Collider
     - 動かすときはConvexを設定(当たり判定が大雑把になる代わりに動かせるようになる)
+  - テクスチャーを貼り付ける参考記事
+    - http://cz-mirror.hatenablog.com/entry/2018/02/23/223650
 - Particleで画面を派手にする
 - 音の準備
   - BGM,効果音を探す(効果音ラボ、魔王魂、H/MIX GALLARY、音楽の卵、甘茶の音楽工房、Asset Storeなどなど)
