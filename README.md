@@ -14,8 +14,12 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 12回目(7/4)
+# 13回目(7/11)
 ## 予定
+
+
+# 12回目(7/4)
+## 内容
 - ProBuilderで小物や島を作る
   - 手順 https://docs.google.com/document/d/1Iyt45r4wSlg3WVi6PBKxrEzwglLKjzleOtShflrAJiY/edit?usp=sharing
   - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
