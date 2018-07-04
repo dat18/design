@@ -17,6 +17,7 @@
 # 12回目(7/4)
 ## 予定
 - ProBuilderで小物や島を作る
+  - 手順 https://docs.google.com/document/d/1Iyt45r4wSlg3WVi6PBKxrEzwglLKjzleOtShflrAJiY/edit?usp=sharing
   - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
     - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
   - 当たり判定をつける
