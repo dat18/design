@@ -14,6 +14,12 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 14回目(7/18)
+## 予定
+- プレゼンテーション資料の簡単な作り方
+  - GitPitchの利用
+
+
 # 13回目(7/11)
 ## 内容
 - [講義メモ](https://docs.google.com/document/d/1R32O134chW-wuqBovrR1xeXT0cIkpjFIcZo4Ncjtbjc/edit?usp=sharing)
@@ -22,11 +28,9 @@
     - https://dotinstall.com/lessons/basic_markdown_v2
   - GitHub Pagesの利用
     - https://pages.github.com/
-- プレゼンテーション資料の簡単な作り方
-  - GitPitchの利用
     - https://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE
 
-## 演習：よけとるのリポジトリーでGitHub Pagesを有効にして、作品についてまとめる
+## 演習＆宿題：よけとるのリポジトリーでGitHub Pagesを有効にして、作品についてまとめる
 - よけとるのリポジトリーにGitHub Pagesの設定をする
 - よけとるのリポジトリーをクローンする
 - README.mdに、以下の要領で、よけとるの紹介ページを作る
