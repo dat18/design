@@ -16,6 +16,7 @@
 
 # 13回目(7/11)
 ## 予定
+- [講義メモ](https://docs.google.com/document/d/1R32O134chW-wuqBovrR1xeXT0cIkpjFIcZo4Ncjtbjc/edit?usp=sharing)
 - インターネットで発表する
   - マークダウンの練習
     - https://dotinstall.com/lessons/basic_markdown_v2
