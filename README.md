@@ -20,6 +20,9 @@
 - 貼り付けたzipファイルをUnityProjectsフォルダー内に展開する
 - Unityでyoketoru2018-0713フォルダーを開く
 
+## 作業手順
+- [作業手順](https://docs.google.com/document/d/1xrb1lZEuzFmRrjfQ3Ivqq-wGUK1Utm6aWiiYRXTdNBg/edit?usp=sharing)
+
 ## 予定
 - WebGLビルドした作品の公開方法
 - 実行ファイルのダウンロードリンクの作成方法
