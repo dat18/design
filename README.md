@@ -20,6 +20,16 @@
 - 貼り付けたzipファイルをUnityProjectsフォルダー内に展開する
 - Unityでyoketoru2018-0713フォルダーを開く
 
+## 話題
+- [#マンガでわかるUnity 第1話「Unity ってなあに？」](https://unity-manga.hatenablog.com/entry/01)
+- [湊川あい. 実践！イラストでわかりやすく表現する技術](https://docs.google.com/presentation/d/1ZZtmkGreX_vH0k4140PPs4e5DFBLz0Nm5PI3nrjZS-c/edit#slide=id.g3d0013c82c_0_1)
+- [空飛ぶロボットのつくりかた. 数学のお勉強（1）～クオータニオン～](http://robonchu.hatenablog.com/entry/2018/07/15/211951)
+- [neue.cc. UniTask - Unity + async/awaitの完全でハイパフォーマンスな統合](http://neue.cc/2018/07/12_567.html)
+- [XJINE. Unity Shader Programming Vol.01 (v.0.9.9)](https://xjine.booth.pm/items/931290)
+- [Ryota Takasaki. 出でよ！ゲームUIデザイナー](https://note.mu/ryotataksaki/n/ne3eb7b2e283e)
+- [Mush memo. クリエイターが知っておくべき著作権のこと](https://mushmemo.com/2018/07/12/creator-tyosakuken/)
+
+
 ## 作業手順
 - [作業手順](https://docs.google.com/document/d/1xrb1lZEuzFmRrjfQ3Ivqq-wGUK1Utm6aWiiYRXTdNBg/edit?usp=sharing)
 
