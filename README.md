@@ -14,6 +14,26 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 15回目(9/5)
+## 話題
+- [Unity Asset Portal. 「Unity神アセット」キャンペーン 9/14まで](http://assetstore.info/eventandcontest/themechallenge/kami-asset-campaign/?utm_campaign=as_japan_newsletter_2018-09-JP-KamiCampaign-1&utm_content=2018-09-JP-KamiCampaign-Noti&utm_medium=email&utm_source=Eloqua)
+- [1週間ゲームジャム(9/3-9/9) テーマ「あつい」](https://unityroom.com/unity1weeks)
+- [Unity Asset Portal. Unity アセット真夏のアドベントカレンダー 2018 Summer!](http://assetstore.info/eventandcontest/adventcalendar/asset-adventcalendar2018summer/)で50ドルゲット
+- [Unity AssetStoreまとめ. Unity AssetStoreまとめ 第二回!! 真夏のプレゼントキャンペーン！ アセットバウチャー総額『$300（約3万円）』山分けプレゼント（ポロリもあるよ）](http://www.asset-sale.net/entry/SummerEvent20180821)で10ドルゲット http://www.asset-sale.net/entry/EventEnd180826
+- [Weeyble. Unityもくもく勉強会×1週間ゲームジャム準備会(9/2)](https://weeyble-game.connpass.com/event/98920/
+)で、ライトニングトーク(LT)
+
+## 予定
+- 夏休み課題の作品のUnityプロジェクトを仮提出
+  - プロジェクトをZIP圧縮
+  - `a館3f-6f共用ドライブ`のいつもの場所にコピーする
+- 夏休み課題の仕上げ(金曜日に発表予定)
+  - [課題内容](https://github.com/dat18/gp1/blob/master/README.md#%E5%A4%8F%E4%BC%91%E3%81%BF%E3%81%AE%E8%AA%B2%E9%A1%8C)
+  - すでに出来ている人は、Unity1週間ゲームジャムに参加できるように改造
+  - 上記中に、アセットのライセンスチェックを実施します
+
+---
+
 # 14回目(7/18)
 ## 金曜日に欠席していたら以下を準備
 - a館3f-6f共用ドライブを開いて、yoketoru2018-0713.zipをコピーして、ドキュメント -> 自分の名前のフォルダー -> UnityProjectsフォルダーの中に貼り付け
