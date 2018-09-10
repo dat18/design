@@ -14,6 +14,33 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 16回目(9/12)
+## 話題
+- [1週間ゲームジャムで人気作品に入りました！](https://unityroom.com/unity1weeks/10)
+  - もう落ちてると思いますが...
+
+## 予定
+- 夏休み課題のプレゼンの評価の確認
+- 企画会議
+  - GitHubのWikiか、Googleドキュメントを共有して、メンバーで企画書を共有
+- 以下を決めて、企画書に書いていく
+  - ゲームのタイトル(仮でよい)
+  - ゲームの概要
+  - 操作方法
+  - ルール案
+  - ゲームメカニクス(ジャンプ、敵を倒す、などのゲームを構成する細かい要素のリスト)
+  - サムネイル(小さい画面イメージ。手書きでよい。小さく書く)
+  - 画面の解像度
+- 作業項目をリストアップする  
+  - Trelloで行う
+- 利用アセット欄を作る
+  - Trelloにリストを作る
+- Unityのプロジェクトを作成
+  - 解像度を設定
+  - ビルド設定(WindowsかWebGL)
+  - Unity Collaborationで共有する
+  - 仮画面の作成
+
 # 15回目(9/5)
 ## 話題
 - [Unity Asset Portal. 「Unity神アセット」キャンペーン 9/14まで](http://assetstore.info/eventandcontest/themechallenge/kami-asset-campaign/?utm_campaign=as_japan_newsletter_2018-09-JP-KamiCampaign-1&utm_content=2018-09-JP-KamiCampaign-Noti&utm_medium=email&utm_source=Eloqua)
