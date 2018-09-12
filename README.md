@@ -34,6 +34,9 @@
   - ルール案
   - ゲームメカニクス(ジャンプ、敵を倒す、などのゲームを構成する細かい要素のリスト)
   - サムネイル(小さい画面イメージ。手書きでよい。小さく書く)
+    - サムネイルはCamScannerを使ってスマホで撮影すると楽
+    - Android版 https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja
+    - iOS版 https://itunes.apple.com/jp/app/camscanner/id388627783?mt=8
   - 画面の解像度
 - 作業項目をリストアップする  
   - Trelloで行う
