@@ -20,7 +20,7 @@
 - [操作説明に使えるアセットの紹介](https://mobile.twitter.com/96yuuki331/status/1037314989923557380)
 
 ## 作業手順
-- 作業手順
+- [作業手順](https://docs.google.com/document/d/1bGg-ogJfsmV1USXmRs1ERD90IaQ4I-5c-I_35vcjDMM/edit?usp=sharing)
 
 ## 予定
 - 夏休み課題のプレゼンの評価の確認
