@@ -28,6 +28,7 @@
 - 企画会議
   - GitHubのWikiか、Googleドキュメントを共有して、メンバーで企画書を共有
 - 以下を決めて、企画書に書いていく
+  - [作例](https://docs.google.com/document/d/14PHRo3qybgjnNQiAm7PKn6zfEVHrkGPiBPkDFLbjGyQ/edit?usp=sharing)
   - ゲームのタイトル(仮でよい)
   - ゲームの概要
   - 操作方法
