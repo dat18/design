@@ -14,6 +14,10 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
+# 後期1回目
+
+---
+
 # 16回目(9/12)
 ## 話題
 - [1週間ゲームジャムで人気作品に入りました！](https://unityroom.com/unity1weeks/10)
