@@ -25,6 +25,9 @@
 - 11/7(準備)
 - 11/9,10 作品展
 
+## 話題
+- https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118
+
 ## 予定
 - チームごとに以下を発表
   - 現状を見せる(YouTubeのライブストリーミング)
