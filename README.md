@@ -26,7 +26,8 @@
 - 11/9,10 作品展
 
 ## 話題
-- https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118
+- [Hiromu Masuda. エンジニアは全員技術記事を書くことを習慣化した方がいいぞ](https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118)
+- [Unity UI の最適化に関するヒント](https://unity3d.com/jp/how-to/unity-ui-optimization-tips)
 
 ## 予定
 - チームごとに以下を発表
@@ -34,6 +35,7 @@
   - 予定していた作業が完了したか
   - 次の1週間の予定
 - 開発と質疑応答
+  - 横スクロールチームのプレイヤー開発を明文化したい
 
 
 # 後期1回目
