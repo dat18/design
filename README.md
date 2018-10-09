@@ -15,6 +15,11 @@
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
 # 後期2回目
+- YouTubeでライブストリーミングの準備をする
+  - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
+- https://trello.com/dat1810/home を開いて、進捗報告リストの10/10のコメントに、作成したライブストリーミングのURLを貼り付けておく
+
+
 ## 作品展までの日程
 - 10/3
 ----
