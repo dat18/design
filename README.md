@@ -14,27 +14,39 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 後期2回目
-- YouTubeでライブストリーミングの準備をする(チームで1つ)
-  - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
-- https://trello.com/dat1810/home を開いて、進捗報告リストの10/10のコメントに、作成したライブストリーミングのURLを貼り付けておく
-
-
+# 後期3回目
 ## 作品展までの日程
 - 10/3
-----
 - 10/10
-- 10/17
+- **10/17**
 - 10/24
 - 10/31
 - 11/7(準備)
 - 11/9,10 作品展
 
 ## 話題
+- [デジゲー博のパンフ前売り開始](http://digigame-expo.org/)
+
+
+## 内容
+- チームごとに以下を発表
+  - 現状を見せる(YouTubeのライブストリーミング)
+  - 予定していた作業が完了したか
+  - 次の1週間の予定
+- 開発と質疑応答
+
+
+# 後期2回目
+- YouTubeでライブストリーミングの準備をする(チームで1つ)
+  - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
+- https://trello.com/dat1810/home を開いて、進捗報告リストの10/10のコメントに、作成したライブストリーミングのURLを貼り付けておく
+
+
+## 話題
 - [Hiromu Masuda. エンジニアは全員技術記事を書くことを習慣化した方がいいぞ](https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118)
 - [Unity UI の最適化に関するヒント](https://unity3d.com/jp/how-to/unity-ui-optimization-tips)
 
-## 予定
+## 内容
 - チームごとに以下を発表
   - 現状を見せる(YouTubeのライブストリーミング)
   - 予定していた作業が完了したか
