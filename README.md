@@ -29,6 +29,9 @@
 - [デジゲー博 カタログ前売り](https://twitter.com/DigiGameExpo/status/1051744013630418944)
 
 ## 予定
+- YouTubeでライブストリーミングの準備をする(チームで1つ)
+  - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
+- https://trello.com/dat1810/home を開いて、進捗報告リストの今日の日付のコメントに、作成したライブストリーミングのURLを貼り付けておく
 - チームごとに以下を確認
   - 予定していた作業が完了したか
   - 次の1週間の予定
