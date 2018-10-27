@@ -15,20 +15,40 @@
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
 - http://am1tanaka.hatenablog.com/entry/2017/11/22/221835#学生さん作品
 
-# 後期4回目
+# 後期5回目
 ## 作品展までの日程
 - 10/3
 - 10/10
 - 10/17
-- **10/24**
-- 10/31
+- 10/24
+- **10/31**
 - 11/7(準備)
 - 11/9,10 作品展
 
 ## 話題
-- [デジゲー博 カタログ前売り](https://twitter.com/DigiGameExpo/status/1051744013630418944)
+- [Unity1週間ゲームジャム 11/19(月)〜11/25(日) 20:00](https://twitter.com/naichilab/status/1052734490030747649)
+  - 11/18(日) 秋葉原のWeeybleにて準備会
+- [Unity 2D Challenge](https://prtimes.jp/main/html/rd/p/000000078.000016287.html)
+  - 2018年10月24日10時から12月18日15時59分まで
 
 ## 予定
+- YouTubeでライブストリーミングの準備をする(チームで1つ)
+  - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
+- https://trello.com/dat1810/home を開いて、進捗報告リストの今日の日付のコメントに、作成したライブストリーミングのURLを貼り付けておく
+- チームごとに以下を確認
+  - 予定していた作業が完了したか
+  - 残り作業
+- 開発と質疑応答
+  - 横スクロールアクション：アニメーション、シーンの統合
+  - エアホッケー：PhotonBoltの組み込み(シーンは別シーンで)
+  - 巣箱ディフェンスとノベルはそのまま作業を進める
+
+
+# 後期4回目
+## 話題
+- [デジゲー博 カタログ前売り](https://twitter.com/DigiGameExpo/status/1051744013630418944)
+
+## 内容
 - YouTubeでライブストリーミングの準備をする(チームで1つ)
   - [手順](https://docs.google.com/document/d/1nyEksP2FAmN2oTf_nhUGlEC9yLFO-tj312qND_BUOeE/)
 - https://trello.com/dat1810/home を開いて、進捗報告リストの今日の日付のコメントに、作成したライブストリーミングのURLを貼り付けておく
