@@ -10,7 +10,6 @@
 - [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
 - [NxWorld. デザインする上で知っておきたい「近接」「整列」「反復」「対比」の4原則](https://www.nxworld.net/design-ui-ux/4-principles-of-design.html?utm_content=bufferb8cf3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
-- [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
 
 # 2017年度 学生個人作品
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
@@ -18,10 +17,14 @@
 
 # 後期6回目
 ## 話題
+- [デジゲー博出展してきました](http://am1tanaka.hatenablog.com/entry/2018/11/06/133803)
 - [Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - 11/19(月) 0:00 ～ 11/25(日) 20:00
+  - [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
 - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
   - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
+- [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
+- [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 ## これからの予定
 - 金曜日にコードレビューをやりたいので、共有ドライブの指定の場所に作成したプロジェクトをまるごとコピーする
