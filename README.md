@@ -21,6 +21,7 @@
 - [Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - 11/19(月) 0:00 ～ 11/25(日) 20:00
   - [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
+  - [11/18(日) 秋葉原のWeeybleにて準備会](https://weeyble-game.connpass.com/event/106345/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)
 - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
   - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
 - [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
