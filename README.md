@@ -26,6 +26,7 @@
   - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
 - [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
+- [Unityゲーム開発者ギルド](https://scrapbox.io/unity-game-dev-guild-pr/Unity%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89)
 
 ## これからの予定
 - 金曜日にコードレビューをやりたいので、共有ドライブの指定の場所に作成したプロジェクトをまるごとコピーする
