@@ -32,7 +32,7 @@
   - [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
   - [11/18(日) 秋葉原のWeeybleにて準備会](https://weeyble-game.connpass.com/event/106345/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)
 - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
-  - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
+  - <s>登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！</s>すでに満席。12/4を田中が取っているので、DATフェスタの作品か、1週間ゲームジャムの成果物で合作として発表したい
 - [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 - [Unityゲーム開発者ギルド](https://scrapbox.io/unity-game-dev-guild-pr/Unity%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89)
@@ -43,6 +43,7 @@
 
 ## 予定
 - 金曜日にコードレビューをやりたいので、共有ドライブの指定の場所に作成したプロジェクトをまるごとコピーする
+  - `Z:\2018年\ゲーム学科\学生用\gp1\DAT-FESTA-PROJECTS`
 - DATフェスタの作品を使って、ゲームの企画、開発の流れを振り返る
 - 1週間ゲームジャムのための企画作り練習
   - とにかく短期間なので、1日で作れるぐらいのものをいくつか考える
