@@ -45,6 +45,7 @@
 - 金曜日にコードレビューをやりたいので、共有ドライブの指定の場所に作成したプロジェクトをまるごとコピーする
   - `Z:\2018年\ゲーム学科\学生用\gp1\DAT-FESTA-PROJECTS`
 - DATフェスタの作品を使って、ゲームの企画、開発の流れを振り返る
+  - [講義資料](https://docs.google.com/presentation/d/1z884oyuku-k-SmPM0XA9Xl8Hb91XKYUY73bBm2uTIIw/edit?usp=sharing)
 - 1週間ゲームジャムのための企画作り練習
   - とにかく短期間なので、1日で作れるぐらいのものをいくつか考える
   - DATフェスタの作品をベースにするのもアリ
