@@ -25,9 +25,19 @@
 ---
 
 # 後期8回目(11/28)
+## 話題
+- アドベントカレンダー
+  - [Voxel Advent Calendar 2018 - Adventar](https://twitter.com/urabe_rocinante/status/1066909658340712448)
+  - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
+  - [Qiita Unityアドベントカレンダー#3](https://qiita.com/advent-calendar/2018/unity3)
+
+## 予定
 - 1週間ゲームジャムの振り返り＆試遊会
   - ブログ書きましょう https://twitter.com/naichilab/status/1066751483029286912
   - ヨウ君のが1日目(11/26)の23:50あたり
+  - https://t.co/R3RCUEE5Xn
+  - https://unityroom.com/games/gj201811
+  - https://t.co/PhSwSXMuc37
 - 12/4の[unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)についてご相談
 - DATフェスタの作品の公開のための準備
   - 主にライセンスの確認
