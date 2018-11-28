@@ -44,6 +44,9 @@
 - 12/4の[unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)についてご相談
 - DATフェスタの作品の公開のための準備
   - 主にライセンスの確認
+- サンタ
+  - https://opengameart.org/content/santa-rework
+  - https://opengameart.org/content/winter-tileset-16x16
 
 
 # 後期7回目
