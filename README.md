@@ -24,7 +24,20 @@
 
 ---
 
+# 後期9回目(12/5)
+## 話題
+- アドベントカレンダーの報告
+
+## 予定
+- 金曜日のための素材作り
+  - ProBuilderの利用
+  - TextMesh Proを3D空間で利用する
+  - https://www.shogi.or.jp/
+- DATフェスタの作品の公開のための準備
+  - 主にライセンスの確認
+
 # 後期8回目(11/28)
+
 ## 話題
 - アドベントカレンダー
   - [Voxel Advent Calendar 2018 - Adventar](https://twitter.com/urabe_rocinante/status/1066909658340712448)
@@ -34,7 +47,7 @@
 - [paiza開発日誌. プログラミング問題を作るエンジニアが、数学的な面白いアルゴリズムを紹介してみた](https://paiza.hatenablog.com/entry/2017/01/17/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%95%8F%E9%A1%8C%E3%82%92%E4%BD%9C%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E3%80%81%E6%95%B0%E5%AD%A6%E7%9A%84)
 - [Amazon、AWSでのオンライン「機械学習大学」を無料で開講](http://www.itmedia.co.jp/news/articles/1811/27/news062.html)
 
-## 予定
+## 内容
 - 1週間ゲームジャムの振り返り＆試遊会
   - ブログ書きましょう https://twitter.com/naichilab/status/1066751483029286912
   - ヨウ君のが1日目(11/26)の23:50あたり
@@ -42,12 +55,9 @@
   - https://unityroom.com/games/gj201811
   - https://t.co/PhSwSXMuc37
 - 12/4の[unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)についてご相談
-- DATフェスタの作品の公開のための準備
-  - 主にライセンスの確認
 - サンタ
   - https://opengameart.org/content/santa-rework
   - https://opengameart.org/content/winter-tileset-16x16
-
 
 # 後期7回目
 - 1週間ゲームジャム
