@@ -21,6 +21,7 @@
 - Web技術の知見を広める
 - ポートフォリオの作成
 - 卒業制作に向けたデザインワーク
+  - 日本ゲーム大賞の準備
 
 ---
 
@@ -31,6 +32,17 @@
   - カードジャンゴゥー(｢`・ω・)｢ ｼｬｰ https://youtu.be/VgDbIYqpj-0?t=14470
   - NeON https://youtu.be/-e_jYUnM11E?t=9647
 
+## 日本ゲーム大賞 アマチュア部門
+- http://awards.cesa.or.jp/cat/cat_03.html
+- [日本ゲーム大賞2019「アマチュア部門」 作品募集要項の変更点のお知らせ](http://awards.cesa.or.jp/info/181203.html)
+  - [受賞作品](http://awards.cesa.or.jp/prize/amateur/01.html)
+  - [2017年度受賞作品](http://awards.cesa.or.jp/2017/prize/amateur.html)
+    - ECCコンピュータ専門学校 3～4年制 https://comp.ecc.ac.jp/
+    - バンタンゲームアカデミー ゲームプログラマー専攻2年。ゲームプログラム総合3年 https://www.vantan-game.com/faculty/game/index.php
+    - 国際情報工科自動車大学校 3年制 
+    - HAL 4年制と2年制あり
+    - 日本工学院専門学校  4年制と2年制あり
+    
 ## 予定
 - 金曜日のための素材作り
   - ProBuilderの利用
