@@ -10,6 +10,7 @@
 - [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
 - [NxWorld. デザインする上で知っておきたい「近接」「整列」「反復」「対比」の4原則](https://www.nxworld.net/design-ui-ux/4-principles-of-design.html?utm_content=bufferb8cf3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
+- [Udemy. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/unity-chan-tutorial-01/?src=sac&kw=%E3%83%A6%E3%83%8B%E3%83%86%E3%82%A3%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B)
 
 # 2017年度 学生個人作品
 - http://am1tanaka.hatenablog.com/entry/2017/07/04/211954#追記学生さん作品201775
@@ -44,7 +45,7 @@
     - HAL 4年制と2年制あり
     - 日本工学院専門学校  4年制と2年制あり
     
-## 予定
+## 内容
 - 金曜日のための素材作り
   - [作業メモ](https://docs.google.com/document/d/1JuP8tyaRh8Gvz_kFT18djmivaVJ6RDMIj8GsMEnfQJc/)
   - ProBuilderの利用
