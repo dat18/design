@@ -46,6 +46,7 @@
     
 ## 予定
 - 金曜日のための素材作り
+  - [作業メモ](https://docs.google.com/document/d/1JuP8tyaRh8Gvz_kFT18djmivaVJ6RDMIj8GsMEnfQJc/)
   - ProBuilderの利用
   - TextMesh Proを3D空間で利用する
   - https://www.shogi.or.jp/
