@@ -27,6 +27,17 @@
 
 ---
 
+# 後期10回目(12/12)
+- 作品の公開、ポートフォリオ作成に向けて
+- VirtualBoxのメンテナンス
+  - これからWebやDBなどを触るにあたって、Linuxを利用したい。そこで、仮想PCエンジンであるVirtualBoxを利用する
+  - ただ、色々とトラブルが発生する可能性があるので、まずは動作確認を行う
+- Web技術の学習＋学習サイトの利用
+  - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
+  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+- [キャンペーン中](https://paiza.jp/challenges)
+  - スキルチェックをやってみよう
+
 # 後期9回目(12/5)
 ## 話題
 - アドベントカレンダーの報告
@@ -51,8 +62,6 @@
   - ProBuilderの利用
   - TextMesh Proを3D空間で利用する
   - https://www.shogi.or.jp/
-- DATフェスタの作品の公開のための準備
-  - 主にライセンスの確認
 
 # 後期8回目(11/28)
 
