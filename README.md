@@ -27,19 +27,24 @@
 
 ---
 
+# 後期11回目(12/19)
+## ポートフォリオの作成
+- Web技術の学習＋学習サイトの利用
+  - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
+  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+
+## GitHub Pagesの利用
+- 作成したポートフォリオページをGitHub Pagesのユーザーページで公開する
+
 # 後期10回目(12/12)
 ## 1コマ目
 - [Photon Bolt](http://am1tanaka.hatenablog.com/entry/adcale18/photonbolt)
-
 
 ## その後
 - 作品の公開、ポートフォリオ作成に向けて
 - <s> VirtualBoxのメンテナンス</s> 無理そうだった
   - <s> これからWebやDBなどを触るにあたって、Linuxを利用したい。そこで、仮想PCエンジンであるVirtualBoxを利用する </s>
   - <s> ただ、色々とトラブルが発生する可能性があるので、まずは動作確認を行う </s>
-- Web技術の学習＋学習サイトの利用
-  - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
-  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 - [キャンペーン中](https://paiza.jp/challenges)
   - スキルチェックをやってみよう
 
