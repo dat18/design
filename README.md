@@ -28,6 +28,11 @@
 ---
 
 # 後期10回目(12/12)
+## 1コマ目
+- [Photon Bolt](http://am1tanaka.hatenablog.com/entry/adcale18/photonbolt)
+
+
+## その後
 - 作品の公開、ポートフォリオ作成に向けて
 - <s> VirtualBoxのメンテナンス</s> 無理そうだった
   - <s> これからWebやDBなどを触るにあたって、Linuxを利用したい。そこで、仮想PCエンジンであるVirtualBoxを利用する </s>
