@@ -36,11 +36,13 @@
   - 作品のリスト、遊べる場所へのリンク、ダウンロードなど
   - ブログやSNSへのリンク(企業に公開することを想定した内容のもの。個人的なものは不要)
 - 参考
+  - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
   - http://kuma777.itigo.jp/
   - https://yuutea335.hatenablog.com/
 
 ## 予定
 - ポートフォリオの作成
+  - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
   - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
   - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 - GitHub Pagesの利用
