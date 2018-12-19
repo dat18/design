@@ -45,7 +45,7 @@
   - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
   - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
   - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
-- GitHub Pagesの利用
+- [GitHub Pagesの利用](https://docs.google.com/document/d/1yi1-l5ybCmiOitiJGpDivEBB1ZrfHrHXfPU76MvzlYQ/)
 - 課題作業
 
 # 後期10回目(12/12)
