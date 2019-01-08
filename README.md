@@ -65,6 +65,7 @@
   - 12: 5/30
 - 以下を検討して、来週までにまとめてくる
   - 参考：[個人開発のUI設計術](https://crieit.net/posts/UI)
+  - 参考：[ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
   - 企画概要
   - サムネイル
   - ターゲットデバイス
