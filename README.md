@@ -29,6 +29,8 @@
 
 # 後期12回目(1/9)
 ## 就活情報
+- [paizaの就活リファレンス](https://paiza.jp/student/advice/student_advice)
+  - [スケジュールの確認](https://paiza.jp/student/advice/student_schedule)
 - 求人情報から、言語やフレームワークの傾向を確認しよう
   - https://paiza.jp/student/job_offers
   - https://paiza.jp/career/job_offers
@@ -62,11 +64,13 @@
   - 11: 5/23, 25
   - 12: 5/30
 - 以下を検討して、来週までにまとめてくる
+  - [個人開発のUI設計術](https://crieit.net/posts/UI)
   - 企画概要
   - サムネイル
   - ターゲットデバイス
   - 解像度の想定
   - 利用したいアセットの調査
+- [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 
 ### 金曜日の準備
 
