@@ -82,6 +82,10 @@
   - 利用したいアセットの調査
 - [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 
+### GitHubのプライベートを確認
+- ライセンスが変わって、プライベートリポジトリーが使えるようになったっぽいので、試してみよう
+  - [GitHub Pricing](https://github.com/pricing)
+
 ### 金曜日の準備
 
 
