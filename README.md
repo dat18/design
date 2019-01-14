@@ -30,6 +30,7 @@
 # 後期13回目(1/16)
 ## 話題
 - [「学生のうちに、プロ以上の力を身に付けられる」　Fate/Grand Order開発者が“ゲーム業界志望者”にアドバイスしたこと](http://www.itmedia.co.jp/news/articles/1901/11/news013.html)
+- [Hakone's portfolio.](http://hakone-gamedev.strikingly.com/)
 
 ## 予定
 
