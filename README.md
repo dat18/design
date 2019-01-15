@@ -29,8 +29,9 @@
 
 # 後期13回目(1/16)
 ## 話題
-- [「学生のうちに、プロ以上の力を身に付けられる」　Fate/Grand Order開発者が“ゲーム業界志望者”にアドバイスしたこと](http://www.itmedia.co.jp/news/articles/1901/11/news013.html)
+- [トモぞヴP. 学生よ、イベントに行こう【unity1week Meetup in Tokyo 2019】](http://tomozooo.hatenablog.com/entry/2019/01/15/220528)
 - [Hakone's portfolio.](http://hakone-gamedev.strikingly.com/)
+- [「学生のうちに、プロ以上の力を身に付けられる」　Fate/Grand Order開発者が“ゲーム業界志望者”にアドバイスしたこと](http://www.itmedia.co.jp/news/articles/1901/11/news013.html)
 
 ## 予定
 
