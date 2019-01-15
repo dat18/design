@@ -68,7 +68,7 @@
   - 11: 5/23, 25
   - 12: 5/30
 - 担当について考える
-  - [paiza. ゲームエンジニア入門](https://paiza.jp/works/game/primer/gameengineer-primer-01/15002)
+  - [paiza. ゲームエンジニア入門](https://paiza.jp/works/game/primer/gameengineer-primer-01/15000)
 
 --- 以下、時間次第
 
