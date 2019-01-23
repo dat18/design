@@ -28,6 +28,9 @@
 ---
 
 # 後期13回目(1/23)
+## 手続きとデータ
+- [資料](https://docs.google.com/spreadsheets/d/1Jm-33kxgkWZl8SStyNCfx8kApR6IKJPSlsgyPdP7A-k/edit?usp=sharing)
+
 ## 予定
 ### 日本ゲーム大賞に向けた企画会議
 - [概要](http://awards.cesa.or.jp/info/181203.html)
