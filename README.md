@@ -42,6 +42,9 @@
 ---
 
 # 後期14回目(1/30)
+## 最終課題について
+- [参考: Yuta Kusahara. ゲーム開発における"妄想と現実"](https://t.co/KhRop1MbME?amp=1)
+
 ## ポートフォリオのURL
 - [Trello. ポートフォリオカード](https://trello.com/c/aAM40tSx/3-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%83%9A%E3%83%BC%E3%82%B8)
 
