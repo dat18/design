@@ -46,6 +46,7 @@
 - [Trello. ポートフォリオカード](https://trello.com/c/aAM40tSx/3-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%83%9A%E3%83%BC%E3%82%B8)
 
 ## GitHubの行動開発続き
+- [作業手順](https://docs.google.com/document/d/14rF-dYuiBWzylMytamAKRHQ4q1QYA59T8ZS_RY0vjfI/)
 
 ## 日本ゲーム大賞に向けた企画会議
 - [概要](http://awards.cesa.or.jp/info/181203.html)
