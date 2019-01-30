@@ -56,6 +56,18 @@
 - [UnityTechnologiesJapan. 48時間で作るゲームの企画を3時間できっちり決める](https://www.slideshare.net/UnityTechnologiesJapan/483-128649646?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1087947414495997953)
 - 参考：[個人開発のUI設計術](https://crieit.net/posts/UI)
 
+### 企画の軸
+- テーマと表現
+- プレイヤーの操作、行動
+- メカニクス(ゲームの個々の動き)
+
+### 進め方
+- 画面サイズを決める(WebGLを想定)
+- 採用する色を決める
+- 画面設計。サムネイルを描く
+- フォント(WebGLではフォントを入れないと日本語が表示されない)
+
+
 
 ## 日本ゲーム大賞に向けた企画会議
 - [概要](http://awards.cesa.or.jp/info/181203.html)
