@@ -50,6 +50,7 @@
 
 ## GitHubの行動開発続き
 - [作業手順](https://docs.google.com/document/d/14rF-dYuiBWzylMytamAKRHQ4q1QYA59T8ZS_RY0vjfI/)
+  - [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
 
 ## 日本ゲーム大賞に向けた企画会議
 - [概要](http://awards.cesa.or.jp/info/181203.html)
